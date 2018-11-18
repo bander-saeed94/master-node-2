@@ -1,1 +1,2 @@
-[object Object]
+{"check":{"id":"sz9m498wajaaeh9gdkv3","userPhone":"0501766627","protocol":"https","url":"google.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":3,"state":"up","lastChecked":1542555771706},"outcome":{"error":false,"responseCode":301},"state":"up","alert":false,"time":1542562566801}
+{"check":{"id":"sz9m498wajaaeh9gdkv3","userPhone":"0501766627","protocol":"https","url":"google.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":3,"state":"up","lastChecked":1542562566801},"outcome":{"error":false,"responseCode":301},"state":"up","alert":false,"time":1542562626588}
